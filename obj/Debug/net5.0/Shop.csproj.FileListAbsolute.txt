@@ -81,7 +81,6 @@ C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Dri
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -120,3 +119,4 @@ C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Dri
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\obj\Debug\net5.0\Shop.genruntimeconfig.cache
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Humanizer.dll
 C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\danilo.menezes\Documents\Workspace\Pessoal\Api-Data-Driven\Api-Data-Driven\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
