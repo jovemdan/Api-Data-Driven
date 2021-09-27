@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/jovemdan/Documentos/Workspace/Balta.Io/Shop/Shop.csproj": {}
+    "C:\\Users\\danilo.menezes\\Documents\\Workspace\\Pessoal\\Api-Data-Driven\\Api-Data-Driven\\Shop.csproj": {}
   },
   "projects": {
-    "/home/jovemdan/Documentos/Workspace/Balta.Io/Shop/Shop.csproj": {
+    "C:\\Users\\danilo.menezes\\Documents\\Workspace\\Pessoal\\Api-Data-Driven\\Api-Data-Driven\\Shop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/jovemdan/Documentos/Workspace/Balta.Io/Shop/Shop.csproj",
+        "projectUniqueName": "C:\\Users\\danilo.menezes\\Documents\\Workspace\\Pessoal\\Api-Data-Driven\\Api-Data-Driven\\Shop.csproj",
         "projectName": "Shop",
-        "projectPath": "/home/jovemdan/Documentos/Workspace/Balta.Io/Shop/Shop.csproj",
-        "packagesPath": "/home/jovemdan/.nuget/packages/",
-        "outputPath": "/home/jovemdan/Documentos/Workspace/Balta.Io/Shop/obj/",
+        "projectPath": "C:\\Users\\danilo.menezes\\Documents\\Workspace\\Pessoal\\Api-Data-Driven\\Api-Data-Driven\\Shop.csproj",
+        "packagesPath": "C:\\Users\\danilo.menezes\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\danilo.menezes\\Documents\\Workspace\\Pessoal\\Api-Data-Driven\\Api-Data-Driven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/jovemdan/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\danilo.menezes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,6 +40,16 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.10, )"
+            },
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[5.0.10, )"
@@ -69,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
